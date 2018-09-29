@@ -1,0 +1,66 @@
+C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe.config
+C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+C:\Users\lovel_000\Desktop\WindowsServiceCS\bin\Debug\WindowsServiceCS.pdb
+C:\Users\lovel_000\Desktop\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.ProjectInstaller.resources
+C:\Users\lovel_000\Desktop\WindowsServiceCS\obj\x86\Debug\WindowsServiceSLA.csproj.GenerateResource.Cache
+C:\Users\lovel_000\Desktop\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.exe
+C:\Users\lovel_000\Desktop\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.pdb
+C:\Users\lovel_000\Desktop\WindowsSLA\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe.config
+C:\Users\lovel_000\Desktop\WindowsSLA\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.exe
+C:\Users\lovel_000\Desktop\WindowsSLA\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.pdb
+C:\Users\lovel_000\Desktop\WindowsSLA\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+C:\Users\lovel_000\Desktop\WindowsSLA\WindowsServiceCS\bin\Debug\WindowsServiceCS.pdb
+C:\Users\lovel_000\Desktop\WindowsSLA\WindowsServiceCS\obj\x86\Debug\WindowsServiceSLA.csproj.GenerateResource.Cache
+C:\Users\lovel_000\Desktop\WindowsSLA\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.ProjectInstaller.resources
+C:\Users\lovel_000\Desktop\Windows Services\WindowsSLA\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe.config
+C:\Users\lovel_000\Desktop\Windows Services\WindowsSLA\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.exe
+C:\Users\lovel_000\Desktop\Windows Services\WindowsSLA\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.pdb
+C:\Users\lovel_000\Desktop\Windows Services\WindowsSLA\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+C:\Users\lovel_000\Desktop\Windows Services\WindowsSLA\WindowsServiceCS\bin\Debug\WindowsServiceCS.pdb
+C:\Users\lovel_000\Desktop\Windows Services\WindowsSLA\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.ProjectInstaller.resources
+C:\Users\lovel_000\Desktop\Windows Services\WindowsSLA\WindowsServiceCS\obj\x86\Debug\WindowsServiceSLA.csproj.GenerateResource.Cache
+C:\Users\lovel_000\Desktop\Windows Services\WindowsSLA\WindowsServiceCS\obj\x86\Debug\WindowsServiceSLA.csprojResolveAssemblyReference.cache
+F:\New folder\WindowsSLA\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe.config
+F:\New folder\WindowsSLA\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.exe
+F:\New folder\WindowsSLA\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.pdb
+F:\New folder\WindowsSLA\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+F:\New folder\WindowsSLA\WindowsServiceCS\bin\Debug\WindowsServiceCS.pdb
+F:\New folder\WindowsSLA\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.ProjectInstaller.resources
+F:\New folder\WindowsSLA\WindowsServiceCS\obj\x86\Debug\WindowsServiceSLA.csproj.GenerateResource.Cache
+E:\Windows Services\Test\WindowsSLA\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe.config
+E:\Windows Services\Test\WindowsSLA\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.exe
+E:\Windows Services\Test\WindowsSLA\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.pdb
+E:\Windows Services\Test\WindowsSLA\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+E:\Windows Services\Test\WindowsSLA\WindowsServiceCS\bin\Debug\WindowsServiceCS.pdb
+E:\Windows Services\Test\WindowsSLA\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.ProjectInstaller.resources
+E:\Windows Services\Test\WindowsSLA\WindowsServiceCS\obj\x86\Debug\WindowsServiceSLA.csproj.GenerateResource.Cache
+E:\WindowsService\Update\WindowsSLA\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe.config
+E:\WindowsService\Update\WindowsSLA\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.exe
+E:\WindowsService\Update\WindowsSLA\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.pdb
+E:\WindowsService\Update\WindowsSLA\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+E:\WindowsService\Update\WindowsSLA\WindowsServiceCS\bin\Debug\WindowsServiceCS.pdb
+E:\WindowsService\Update\WindowsSLA\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.ProjectInstaller.resources
+E:\WindowsService\Update\WindowsSLA\WindowsServiceCS\obj\x86\Debug\WindowsServiceSLA.csproj.GenerateResource.Cache
+E:\WindowsService\Update\WindowsSLA\WindowsServiceCS\obj\x86\Debug\WindowsServiceSLA.csprojResolveAssemblyReference.cache
+E:\WindowsSLA\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe.config
+E:\WindowsSLA\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.exe
+E:\WindowsSLA\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.pdb
+E:\WindowsSLA\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+E:\WindowsSLA\WindowsServiceCS\bin\Debug\WindowsServiceCS.pdb
+E:\WindowsSLA\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.ProjectInstaller.resources
+E:\WindowsSLA\WindowsServiceCS\obj\x86\Debug\WindowsServiceSLA.csproj.GenerateResource.Cache
+F:\Backups\Windows Services\WindowsSLA Original\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe.config
+F:\Backups\Windows Services\WindowsSLA Original\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.exe
+F:\Backups\Windows Services\WindowsSLA Original\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.pdb
+F:\Backups\Windows Services\WindowsSLA Original\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+F:\Backups\Windows Services\WindowsSLA Original\WindowsServiceCS\bin\Debug\WindowsServiceCS.pdb
+F:\Backups\Windows Services\WindowsSLA Original\WindowsServiceCS\obj\x86\Debug\WindowsServiceCS.ProjectInstaller.resources
+F:\Backups\Windows Services\WindowsSLA Original\WindowsServiceCS\obj\x86\Debug\WindowsServiceSLA.csproj.GenerateResource.Cache
+D:\Watchnet Window Services\Test Services\Ticket Sla Test Service\bin\Debug\WindowsServiceCS.exe.config
+D:\Watchnet Window Services\Test Services\Ticket Sla Test Service\bin\Debug\WindowsServiceCS.exe
+D:\Watchnet Window Services\Test Services\Ticket Sla Test Service\bin\Debug\WindowsServiceCS.pdb
+D:\Watchnet Window Services\Test Services\Ticket Sla Test Service\obj\x86\Debug\WindowsServiceCS.ProjectInstaller.resources
+D:\Watchnet Window Services\Test Services\Ticket Sla Test Service\obj\x86\Debug\WindowsServiceSLA.csproj.GenerateResource.cache
+D:\Watchnet Window Services\Test Services\Ticket Sla Test Service\obj\x86\Debug\WindowsServiceSLA.csproj.CoreCompileInputs.cache
+D:\Watchnet Window Services\Test Services\Ticket Sla Test Service\obj\x86\Debug\WindowsServiceCS.exe
+D:\Watchnet Window Services\Test Services\Ticket Sla Test Service\obj\x86\Debug\WindowsServiceCS.pdb
