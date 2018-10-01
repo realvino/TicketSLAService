@@ -1,0 +1,1 @@
+# Auto mail generation system
